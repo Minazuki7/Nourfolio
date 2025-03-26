@@ -28,7 +28,7 @@ const CentralBlock = () => {
       </div>
       <div className=" h-1/4  text-center  text-xl">
         <p className=" ">
-          I'm a passionate Full Stack Developer with over 2 years of experience
+          I'm a passionate Full Stack Developer with over 3 years of experience
           in TypeScript frameworks such as React, Node.js, and GraphQL. I enjoy
           creating innovative solutions and tackling new challenges. Explore my
           projects and learn more about my journey.

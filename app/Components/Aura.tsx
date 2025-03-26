@@ -63,7 +63,7 @@ const Aura = () => {
           HI, I'M NOUR
         </h1>
         <p className="my-6 max-w-xl text-center text-base leading-relaxed md:text-lg md:leading-relaxed">
-          I'm a passionate Full Stack Developer with over 2 years of experience
+          I'm a passionate Full Stack Developer with over 3 years of experience
           in TypeScript frameworks such as React, Node.js, and GraphQL. I enjoy
           creating innovative solutions and tackling new challenges. Explore my
           projects and learn more about my journey.
